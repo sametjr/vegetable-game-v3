@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d30ab7007a1b7ac4dbd05f4ee2a4faaa
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Righteous
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6cbdcfabe85119e4a8d8ad2ce3e8bce2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
