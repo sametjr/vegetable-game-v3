@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Caper
   m_EditorClassIdentifier: 
   vegetable_name: Caper
-  obj: {fileID: 919132149155446097, guid: d9b51ea1ee21b7e448db033c96263d65, type: 3}
+  obj: {fileID: 1141557456793206477, guid: 258ffebf42da9634ab146f97b59a8e62, type: 3}
   image: {fileID: 21300000, guid: fcaa5d1dcbe305f42b3b221571c65448, type: 3}

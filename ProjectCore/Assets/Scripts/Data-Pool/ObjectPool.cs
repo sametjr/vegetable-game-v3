@@ -56,6 +56,7 @@ public class ObjectPool : MonoBehaviour
         _veg.SetActive(false);
         _vegQueue.Enqueue(_veg);
     }
+
     private void ArrangePerformance(GameObject g)
     {
         MeshRenderer mr = g.transform.GetChild(0).GetComponent<MeshRenderer>();

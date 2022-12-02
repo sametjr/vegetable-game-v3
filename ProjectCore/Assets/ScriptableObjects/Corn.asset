@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Corn
   m_EditorClassIdentifier: 
   vegetable_name: Corn
-  obj: {fileID: 919132149155446097, guid: 87326f72e92009241ac58b5dc0dcba4b, type: 3}
+  obj: {fileID: 300430377412399895, guid: 47bf0253042c96d4c8a066ebf2156225, type: 3}
   image: {fileID: 21300000, guid: 66064c99114ed854682cae6bceb1b6b9, type: 3}

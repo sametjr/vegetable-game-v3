@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Beet
   m_EditorClassIdentifier: 
   vegetable_name: Beet
-  obj: {fileID: 919132149155446097, guid: 44001a8c42e272f40ab12c5787e519a0, type: 3}
+  obj: {fileID: 2169920069870901620, guid: 4fc6482d71ca664438bf7f2635c3676d, type: 3}
   image: {fileID: 21300000, guid: b560172bf735f7247abf42216976635a, type: 3}

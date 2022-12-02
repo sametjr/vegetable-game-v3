@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Pumpkin
   m_EditorClassIdentifier: 
   vegetable_name: Pumpkin
-  obj: {fileID: 919132149155446097, guid: 5dbe8f05d3eadd04e9a6b42245c3f6e6, type: 3}
+  obj: {fileID: 5035092436446272570, guid: 470c94efb07dc5e41b6a5131ca961d6a, type: 3}
   image: {fileID: 21300000, guid: c5f396a1c17432e41bcabfe4721812f8, type: 3}

@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Carrot
   m_EditorClassIdentifier: 
   vegetable_name: Carrot
-  obj: {fileID: 919132149155446097, guid: d868bf3dedb9e4846b34db6cf49698b0, type: 3}
+  obj: {fileID: 871433325745016951, guid: 9bc95dcb481e4704f908e254d9d472ee, type: 3}
   image: {fileID: 21300000, guid: 5348579b630c8eb4d9889c613169596e, type: 3}

@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Eggplant
   m_EditorClassIdentifier: 
   vegetable_name: Eggplant
-  obj: {fileID: 919132149155446097, guid: d6d93c1fe1acf384a934ac7f327222f1, type: 3}
+  obj: {fileID: 3923189847759870579, guid: 27b5d3b0583c93d4787114652661437a, type: 3}
   image: {fileID: 21300000, guid: cb285ae60b3cd2c489c8e60b3c365775, type: 3}

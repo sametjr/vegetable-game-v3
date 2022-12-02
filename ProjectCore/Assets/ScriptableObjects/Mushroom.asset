@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Mushroom
   m_EditorClassIdentifier: 
   vegetable_name: Mushroom
-  obj: {fileID: 919132149155446097, guid: a59e2d2c16608c84a805ab38bfdaa1ac, type: 3}
+  obj: {fileID: 7438752107511965596, guid: 951b6d034f84cfc45be49a921806f562, type: 3}
   image: {fileID: 21300000, guid: 57f349707f339d7448754ee944accbd3, type: 3}

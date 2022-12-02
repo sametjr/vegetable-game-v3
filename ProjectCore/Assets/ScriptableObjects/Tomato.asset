@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Tomato
   m_EditorClassIdentifier: 
   vegetable_name: Tomato
-  obj: {fileID: 919132149155446097, guid: fd6c2e18242000f46af9411aea1b326c, type: 3}
+  obj: {fileID: 5941686191453905797, guid: 0b702652d0f16464582b33851da59b61, type: 3}
   image: {fileID: 21300000, guid: ccbf83af294eb5048aa8bceef954d8aa, type: 3}
